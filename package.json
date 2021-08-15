@@ -15,9 +15,7 @@
     },
     "author": "Aisha Yasin",
     "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/aisha-ysn/TeamProfile-Generator/issues"
-    },
+    
     "homepage": "https://github.com/aisha-ysn/TeamProfile-Generator#readme",
     "dependencies": {
         "fs": "^0.0.1-security",
