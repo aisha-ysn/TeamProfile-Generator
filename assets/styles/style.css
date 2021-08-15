@@ -1,0 +1,26 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+li:hover {
+    background-color: lightgrey;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    background-color: rgb(161, 161, 161);
+    border-radius: 10%;
+}
+
+.teamText {
+    text-align: center;
+    background-color: red;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 50px;
+    height: 100px;
+    padding-top: 25px;
+}
