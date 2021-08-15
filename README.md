@@ -1,5 +1,4 @@
 # TeamProfile-Generator
-![GitHub license](https://img.shields.io/badge/license-MIT-ff69b4.svg) <br />
 
 A team profile lets the user add information about each member and includes information specific to their roles by asking questions that are specific to each role.
 
