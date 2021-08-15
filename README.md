@@ -22,7 +22,10 @@ node index.js
 As this is a command-line application it will not be deployed, so here's a <a href="https://drive.google.com/file/d/1fUHYFc6E53tGuO74xhVS0UCbRB-FyHRf/preview" target="_blank">link</a> that shows a walkthrough demonstrating the functionality of my application.
 
 Screenshots:
+
 ![screenshot1](https://user-images.githubusercontent.com/83360651/129487552-38463dd7-ff42-42d6-9109-37cffba501ca.JPG)
+
+
 ![test](https://user-images.githubusercontent.com/83360651/129487555-baaa4a36-99ba-4bc8-b2bd-bc8761d1c410.JPG)
 
 
