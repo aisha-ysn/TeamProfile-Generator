@@ -1,4 +1,5 @@
 # TeamProfile-Generator
+![GitHub license](https://img.shields.io/badge/license-MIT-ff69b4.svg) <br />
 
 A team profile lets the user add information about each member and includes information specific to their roles by asking questions that are specific to each role.
 
@@ -46,11 +47,11 @@ SO THAT I can quickly create a professional dashboard for my team
   * Interns info
 
 ## Environment
+* [Inquirer package](https://www.npmjs.com/package/inquirer)
+* [Jest package](https://www.npmjs.com/package/jest)
 * JavaScript
 * HTML
 * CSS
-* Inquirer
-* Jest
 * Bootstrap
 * Google Fonts
 * Node.js
