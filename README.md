@@ -7,7 +7,7 @@ A team profile lets the user add information about each member and includes info
   - [Installation](#installation)
   - [User Story](#user-story)
   - [Application Requirements](#application-requirements)
-  - [Sections that the README Generator covers:](#sections-that-the-readme-generator-covers)
+  - [Information that the generator produces:](#Information-that-the-generator-produces)
   - [Environment](#environment)
   - [Contributors](#contributors)
 
@@ -47,7 +47,7 @@ I WANT a team profile generator
 SO THAT I can quickly create a professional dashboard for my team
 ```
 
-## Sections that the team profile generator covers: 
+## Information that the generator produces: 
 
   * Managers info
   * Engineers info
