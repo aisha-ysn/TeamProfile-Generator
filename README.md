@@ -12,7 +12,7 @@ A team profile lets the user add information about each member and includes info
   - [Contributors](#contributors)
 
 ## Command Line
-This is a command-line application that generates a professional README.md from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer). The application will be invoked with the following command:
+This is a command-line application; the application will be invoked with the following command:
 
 ```
 node index.js
